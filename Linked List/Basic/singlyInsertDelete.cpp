@@ -129,7 +129,7 @@ int main()
     InsertAtPosition(head,tail, 5, 22);
 
 
-    deleteNode(head,5);
+    deleteNode(head,4);
 
 
 
